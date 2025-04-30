@@ -8,4 +8,9 @@ public class Multiplication
     	 System.out.println("Multiplication.multiplicationDemo()");
     	 return x*y;
      }
+     public int multiplication(int a,int b)
+     {
+    	 System.out.println("Multiplication.multiplication()");
+    	 return a*b;
+     }
 }
